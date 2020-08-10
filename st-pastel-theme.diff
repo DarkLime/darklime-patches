@@ -1,0 +1,40 @@
+99,106c99,106
+< 	"black",
+< 	"red3",
+< 	"green3",
+< 	"yellow3",
+< 	"blue2",
+< 	"magenta3",
+< 	"cyan3",
+< 	"gray90",
+---
+> 	"#1a1a1a",
+> 	"#cc3333",
+> 	"#33cc33",
+> 	"#cccc33",
+> 	"#3333cc",
+> 	"#cc33cc",
+> 	"#33ccff",
+> 	"#bfbfbf",
+109,116c109,116
+< 	"gray50",
+< 	"red",
+< 	"green",
+< 	"yellow",
+< 	"#5c5cff",
+< 	"magenta",
+< 	"cyan",
+< 	"white",
+---
+> 	"#404040",
+> 	"#ff6666",
+> 	"#66ff66",
+> 	"#ffff66",
+> 	"#6666ff",
+> 	"#ff66ff",
+> 	"#66ccff",
+> 	"#e6e6e6",
+142c142
+< static unsigned int cursorshape = 2;
+---
+> static unsigned int cursorshape = 4;

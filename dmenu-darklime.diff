@@ -1,0 +1,6 @@
+12,13c12,13
+< 	[SchemeNorm] = { "#bbbbbb", "#222222" },
+< 	[SchemeSel] = { "#eeeeee", "#005577" },
+---
+> 	[SchemeNorm] = { "#33cc33", "#1a1a1a" },
+> 	[SchemeSel] = { "#66ff66", "#404040" },
